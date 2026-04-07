@@ -1,4 +1,4 @@
-# House Worker Hiring Platform 🏠🛠️
+# House Worker Hiring Platform (GitHub Actions Edition) 🏠🛠️
 
 A modern, professional Django-based platform for hiring house workers. This project is fully production-ready with automated CI/CD and cloud deployment.
 
@@ -16,7 +16,7 @@ A modern, professional Django-based platform for hiring house workers. This proj
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/RadhaTawar/house-worker-platform.git
+git clone https://github.com/RadhaTawar/house-worker-platform-using-github-actions.git
 cd "House Worker Hiring Platform"
 ```
 
